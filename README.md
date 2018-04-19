@@ -1,5 +1,5 @@
 # qdcreate
-Small utility written in Python that lets one supply a file to QDR's qdmanage utility for effecting topology changes. The utility also lets you update the router's config file, making changes permanent.
+Small utility written in Python that lets one supply a file to the [QPid Dispatch Router]: https://qpid.apache.org/components/dispatch-router/index.html `qdmanage` utility for effecting topology changes. The utility also lets you update the router's config file, making changes permanent.
 
 ## Usage
 ```
