@@ -1,12 +1,12 @@
 [
 {"type":"address", "prefix":"opensource", "waypoint":"yes"},
-{"type":"autoLink", "name":"opensource", "addr":"opensource", "connection":"od-broker-1-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"od-broker-1-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource", "connection":"od-broker-2-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"od-broker-2-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource", "connection":"od-broker-3-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"od-broker-3-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource", "connection":"od-broker-4-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"od-broker-4-m", "dir":"out"},
+{"type":"autoLink", "name":"opensource", "addr":"opensource", "connection":"broker-1-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"broker-1-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource", "connection":"broker-2-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"broker-2-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource", "connection":"broker-3-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"broker-3-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource", "connection":"broker-4-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource", "connection":"broker-4-m", "dir":"out"},
 {"type":"address", "prefix":"opensource.atod", "waypoint":"yes"},
-{"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-1-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-1-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-2-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-2-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-3-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-3-m", "dir":"out"},
-{"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-4-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"od-broker-4-m", "dir":"out"}
+{"type":"autoLink", "addr":"opensource.atod", "connection":"broker-1-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"broker-1-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource.atod", "connection":"broker-2-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"broker-2-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource.atod", "connection":"broker-3-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"broker-3-m", "dir":"out"},
+{"type":"autoLink", "addr":"opensource.atod", "connection":"broker-4-m", "dir":"in"}, {"type":"autoLink", "addr":"opensource.atod", "connection":"broker-4-m", "dir":"out"}
 ]
